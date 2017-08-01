@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "corded-tensor-175314",
+  "private_key_id": "375ab8b4cfd9ecaede0655e0618712da63597b54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDyWHa6/IjqnzR\nyiNgB4mTtlNs3Nuwu3+FtqwK7///JaS5T/ZdGPRcO6Ncq4EVZOse6A2SkGAR0lt6\n2bArSdRx4bYVFatOHyM37+jw1aEwDPuHdNxx7bJNLzcEpRsBdJLqQPoiAFfm81cS\nUJJvZ3GbMMTSPPRBV31/GLetJp/HB1OXw0WDP2eYie9EEG/pi9/L6oQoc+q+ZHn3\nWvN5lQozFyKFTu9ndzxl/t1uDC1u0zU86UMUO0hINNh5XLhFDi9XyXuN1FwD9//z\n9aplXbAOZyhas5OvVDdkuN8laIPJEoUgYJmtvBvVHuEVn+u3xScXNzBAP3mU3SqL\n60cvNRZ9AgMBAAECggEAC3U8qDtvHbRuvtEhBg/kdrDD6+oQMItrwh9XrQHKR8KK\naluKPbAl+0PbCQny18kV+kzdIBSAJ54M9oD8G2LXVdBxmVHkVAHkfyb0lfhnb4Pc\nlvSfqUprSRl+ecodbRXHOoH4LlQHN1MXmtD8t08ksE768poL0Jfv/NrG3RF8/+bz\ndDBSZ1SFYNw2d5SaYa4EI/j+EXF1/Lj/f3N45nBbFSVEa7PuT4myAQSj8XR07Zwv\nxJQp3OokoEgFzLctKTJcSkQ7QxA7D5zLly7qW+o73pjAMnV/E53FSD3h0W2O9CRe\ntxGSUFwgLMzvqjmfKo7SxnUhRy8c/B/PZlVMxEh+TQKBgQDkwADkl1QybYq3rovT\nk3RSDw3SFZXsXAl/JrRZNJoChJ6YEl5w9HHOlkX7tlateQHfQ+WCpSjX6fu8S4ka\nxQ+OUKQWzYtJjroclfPxTMJKweR9SJtEmkoy/byTjz+5BivgABBrO+W5nsn+BHFi\nwqkQ2qs1h2RhrNelbRzrXlthBwKBgQDbHB9v76KKQf+Yg5JjxQnURr0HPXFhrXWt\nUaW2IqtJUDpcpkHpGxa7ymSR6LN1YhK1fUw1g/1xxKLHJd88xcbc84OyrZqCDjHO\niy/m9l3Q+PSlK2z87ERjINZTZuQVk9zvrfva2xSz3/58XCi98TnLJ438b8FpTtoL\n292tUIhfWwKBgD0zWYnPKwmq4RgvrN1YcCCcQnhYqhnorenE8y+CsUnHLZ9GGtph\nrCk3b1Xe/OXAoE2ZnsgLZBgQU/eWxgHRg03yKVSofYGanBSV0gRXIwxZP8Z9LH14\nQi3OUSuxgb0A97AglEP8bIPzBdveWG+x4QXPW0shBCxV0AREYx5dylj1AoGAIJEs\nhwm6QgyPPg8IWjX2QQwGmqXiTV9n50wEcm7ywKHhGtZHY6t4FI9/pUROMDtUho9K\nHYYxzJAqlakmZjULWtoDEDLHjV8ovgdoJk8mIKJwUoCC4ZEIlSdTU/AuJJrmsuVM\nUvpPOHEptThJgfnx2iVV8Fh4CfwDYtHaQCGBM5MCgYAexKa7nngUjerpa0kZ/b5O\nP19CINTooa9OlGLIZ2eVjS4xwn90wuarDT/SxzMzihmiq/s4uKoV1cxOH4rnF2kI\nTD1mySvLFtqGXPnvXrGsYDDJ0WAcu2BS7Ki8DVyEqQ8JG9I/Jp6dlvwxJMpYGixg\n1Vyj7NnyS52gjbnpbH0A/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechtotext@corded-tensor-175314.iam.gserviceaccount.com",
+  "client_id": "103542699011169419778",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechtotext%40corded-tensor-175314.iam.gserviceaccount.com"
+}
